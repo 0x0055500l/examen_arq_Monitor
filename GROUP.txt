@@ -1,0 +1,13 @@
+Información del grupo (editar con datos reales):
+
+Integrante 1:
+- Nombre completo: Nombre Apellido
+- Número de cuenta: 00000000
+
+Integrante 2:
+- Nombre completo:
+- Número de cuenta:
+
+Integrante 3:
+- Nombre completo:
+- Número de cuenta:
