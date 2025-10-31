@@ -1,8 +1,8 @@
 # Examen — Monitoreo del Sistema con Django y psutil
 
-Información del grupo (editar con los datos reales):
-- Nombre(s): NOMBRE_APELLIDO_1, NOMBRE_APELLIDO_2, ...
-- Número(s) de cuenta: 00000000, 00000001, ...
+Información del grupo:
+- Nombre(s): Josseth Bautista, Oscar Hernández
+- Número(s) de cuenta: 201810020200, 200711120001
 
 Descripción
 Este proyecto implementa una aplicación Django llamada `monitor` con una app interna `sistema` que muestra en tiempo real métricas del sistema usando la librería `psutil`. La interfaz permite actualización manual (botón) y automática (JavaScript, configurada por defecto a 5s).
@@ -39,6 +39,5 @@ Ejecución con Docker (recomendado)
    docker-compose up --build
 2. Abrir en el navegador: http://localhost:8000/
 
-Notas
-- Edita GROUP.txt con nombres y números de cuenta reales antes de subir.
+Notas:
 - /api/metrics/ es el endpoint JSON para la actualización por AJAX.

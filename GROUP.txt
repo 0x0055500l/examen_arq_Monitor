@@ -1,13 +1,9 @@
-Información del grupo (editar con datos reales):
+Información del grupo:
 
 Integrante 1:
-- Nombre completo: Nombre Apellido
-- Número de cuenta: 00000000
+- Nombre completo: Josseth Bautista
+- Número de cuenta: 201810020200
 
 Integrante 2:
-- Nombre completo:
-- Número de cuenta:
-
-Integrante 3:
-- Nombre completo:
-- Número de cuenta:
+- Nombre completo: Oscar Hernández
+- Número de cuenta: 200711120001
